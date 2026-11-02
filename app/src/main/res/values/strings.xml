@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Voicee</string>
+    <string name="phase_zero_status">Phase 0: project setup complete. The voice test bench comes next.</string>
+    <string name="device_heading">This phone</string>
+</resources>
